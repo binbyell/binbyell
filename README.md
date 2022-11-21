@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary>~2020/~2020</summary>
+<summary>대학교 어플</summary>
 <div markdown="1">
 
-대학교 어플
+아마 당시 마켓이 올렸던 이름이 해대인
 https://github.com/DSC-KMOU/KMOUIN_Flutter
 eruns001라는 아이디로 참여했습니다.
 
@@ -41,3 +41,16 @@ eruns001라는 아이디로 참여했습니다.
 </div>
 </details>
 
+
+
+<details>
+<summary>부산해</summary>
+<div markdown="1">
+
+  
+https://play.google.com/store/apps/details?id=com.hgteck.hap_buoy 
+
+
+  
+</div>
+</details>
