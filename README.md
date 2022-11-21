@@ -24,5 +24,20 @@ Here are some ideas to get you started:
 이것저것 올라가게 될 것 같습니다.
 
 
+
+
+<details>
+<summary>~2020/~2020</summary>
+<div markdown="1">
+
+대학교 어플
 https://github.com/DSC-KMOU/KMOUIN_Flutter
+eruns001라는 아이디로 참여했습니다.
+
+처음으로 협업이란걸 해봤고
+깃도 요맘때쯤에 처음 사용해봤습니다.
+지도위에 지도 블럭모양 버튼을 만들어, 해당 지역을 탭했을때 
+
+</div>
+</details>
 
